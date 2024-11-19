@@ -1,6 +1,8 @@
 # About LeetFlash
 
-This repository is for publishing [**releases**](https://github.com/q815101630/about-leetflash/releases) versions of LeetFlash, a spaced repetition service for LeetCode problems, and collecting user feedback through [**Github Issues**](https://github.com/q815101630/about-leetflash/issues).
+This repository is for publishing [__releases__](https://github.com/q815101630/about-leetflash/releases) versions of LeetFlash, and collecting user feedback through [__Github Issues__](https://github.com/q815101630/about-leetflash/issues).
+
+> Notice: The latest version of LeetFlash is not open-source software, and this repository does not contain the source code. The old open-source [LeetFlash](https://github.com/q815101630/LeetFlash) project was archived on November 18, 2024.
 
 Links:
 
