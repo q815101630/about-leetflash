@@ -7,6 +7,10 @@ Links:
 - [**Issues**](https://github.com/q815101630/about-leetflash/issues): Feature requests, bug reports, and other feedback
 - [**Releases**](https://github.com/q815101630/about-leetflash/releases): Release logs
 
+Contact:
+
+- [**Email**](mailto:leetflash123@gmail.com): leetflash123@gmail.com
+
 ## Introduction
 
 [**LeetFlash**](https://www.leetflash.com/) helps users efficiently master algorithm problems through:
