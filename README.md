@@ -11,7 +11,7 @@ Links:
 
 Contact:
 
-- [**Email**](mailto:leetflash123@gmail.com): leetflash123@gmail.com
+- **Email**: leetflash123@gmail.com
 
 ## Introduction
 
